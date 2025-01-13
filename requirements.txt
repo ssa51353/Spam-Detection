@@ -1,0 +1,11 @@
+Required Libraries:
+
+numpy
+
+pandas
+
+torch
+
+scikit-learn
+
+transformers
